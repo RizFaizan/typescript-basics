@@ -19,6 +19,6 @@ var person2 = {
     name: "Faizan ahmad",
     age: 19,
     married: false, // Now if I wanted to add array but the properties of that array are different then:
-    product: [1, "Macbook M3"]
+    product: [1, "Macbook M3", true]
 };
-console.log(person2.product[1]);
+console.log(person2.product[2]);
