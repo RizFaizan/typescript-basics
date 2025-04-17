@@ -42,4 +42,4 @@ const person2: {
     product: [1, "Macbook M3", true]
 }
 
-console.log(person2.product[2]);
+console.log(person2.product[1]);

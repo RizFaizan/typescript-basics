@@ -21,4 +21,4 @@ var person2 = {
     married: false, // Now if I wanted to add array but the properties of that array are different then:
     product: [1, "Macbook M3", true]
 };
-console.log(person2.product[2]);
+console.log(person2.product[1]);
